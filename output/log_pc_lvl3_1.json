@@ -1,0 +1,91 @@
+{
+  "source": "C:\\Git\\log_alg_analyze_1\\logs_for_analyze\\log_pc_lvl3_1.dblog",
+  "encoding": "cp1251",
+  "algorithm": {
+    "id": "OBJ50017147_TEST2_1",
+    "cube_callback": "Куб Смета затрат (осн.)",
+    "partial": true,
+    "duration_ms": 524,
+    "dimension_values": {},
+    "slice": [
+      {
+        "dict": "DICT_INDICATOR_DATA_TYPES",
+        "selected_count": 1,
+        "element_index": "1",
+        "key": "2",
+        "name": "Число"
+      },
+      {
+        "dict": "DICT_ITEMS_ESTOFEXP",
+        "selected_count": 1,
+        "element_index": "10",
+        "key": "11",
+        "name": "1.1.2. газ"
+      },
+      {
+        "dict": "DICT_MEASURES_ESTOFEXP",
+        "selected_count": 1,
+        "element_index": "1",
+        "key": "2",
+        "name": "Сумма"
+      },
+      {
+        "dict": "DICT_PERIOD",
+        "selected_count": 1,
+        "element_index": "5",
+        "key": "3",
+        "name": "1 кв."
+      },
+      {
+        "dict": "DICT_ORGSTRUCTURE",
+        "selected_count": 1,
+        "element_index": "7",
+        "key": "8",
+        "name": "Филиал 1"
+      },
+      {
+        "dict": "DICT_DEFLATOR",
+        "selected_count": 1,
+        "element_index": "3",
+        "key": "4",
+        "name": "Ручной ввод"
+      },
+      {
+        "dict": "DICT_YEARS",
+        "selected_count": 1,
+        "element_index": "0",
+        "key": "2023",
+        "name": "2023"
+      },
+      {
+        "dict": "DICT_VERSION",
+        "selected_count": 1,
+        "element_index": "0",
+        "key": "1",
+        "name": "План"
+      },
+      {
+        "dict": "DICT_EXPTYPE",
+        "selected_count": 1,
+        "element_index": "3",
+        "key": "4",
+        "name": "Электроэнергия"
+      }
+    ]
+  },
+  "plan": {
+    "http_duration_ms": null,
+    "raw": null,
+    "entries": [],
+    "added_blocks": []
+  },
+  "execution": {
+    "calc_model_events": 0,
+    "message_events": 0,
+    "unique_metamodels": 0,
+    "unique_formula_rows": 0,
+    "calc_model_ids": {},
+    "metamodels": [],
+    "other_messages": []
+  }
+}

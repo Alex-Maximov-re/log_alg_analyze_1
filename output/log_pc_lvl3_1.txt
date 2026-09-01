@@ -1,0 +1,29 @@
+Источник: C:\Git\log_alg_analyze_1\logs_for_analyze\log_pc_lvl3_1.dblog
+Кодировка: cp1251
+
+=== Алгоритм ===
+ID: OBJ50017147_TEST2_1
+Колбэк куба: Куб Смета затрат (осн.)
+Частичный расчёт: да
+Время выполнения (по DBG$): 524 мс
+Срез:
+  DICT_INDICATOR_DATA_TYPES: Число (index=1, key=2)
+  DICT_ITEMS_ESTOFEXP: 1.1.2. газ (index=10, key=11)
+  DICT_MEASURES_ESTOFEXP: Сумма (index=1, key=2)
+  DICT_PERIOD: 1 кв. (index=5, key=3)
+  DICT_ORGSTRUCTURE: Филиал 1 (index=7, key=8)
+  DICT_DEFLATOR: Ручной ввод (index=3, key=4)
+  DICT_YEARS: 2023 (index=0, key=2023)
+  DICT_VERSION: План (index=0, key=1)
+  DICT_EXPTYPE: Электроэнергия (index=3, key=4)
+
+=== План (ответ сервиса зависимостей) ===
+HTTP duration: — ms
+Записей плана нет (в этом логе нет result: {block||formula}).
+
+=== Исполнение (протокол расчёта модели) ===
+Событий «Расчет модели»: 0
+Событий «Сообщение»: 0
+Уникальных метамоделей: 0
+Уникальных строк формула x экземпляр: 0
+Именованных запусков формул нет.
